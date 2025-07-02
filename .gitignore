@@ -1,0 +1,8 @@
+./firebase-service-account.json
+./db-config.json
+/node_modules
+# Ignore environment files
+.env
+# Ignore build output
+/dist
+1692031485-API-User-Guide.pdf
