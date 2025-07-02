@@ -1,5 +1,5 @@
-./firebase-service-account.json
-./db-config.json
+firebase-service-account.json
+db-config.json
 /node_modules
 # Ignore environment files
 .env
